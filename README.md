@@ -98,3 +98,6 @@ mysql -h <EC2-PUBLIC-IP> -u root -p accounts < db_backup.sql
 - Network security configuration
 - Troubleshooting distributed systems
 - Clear understanding of IaaS vs PaaS
+
+<img width="1794" height="1020" alt="Screenshot 2026-01-30 170927" src="https://github.com/user-attachments/assets/ee574423-1be6-4b41-bed3-37391d39d810" />
+
